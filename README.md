@@ -3,13 +3,13 @@
       <div class="text-mono text-small mb-3">
         <a href="/TechRate/TechRate" class="no-underline Link--primary">TechRate</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;">/</span>README<span class="color-fg-muted">.md</span>
       </div>
-
-   <div>
+<div>
     <article class="markdown-body entry-content container-lg f5" itemprop="text">
         <h3 dir="auto">
             <a id="user-content-hi-there-we-are-the-techrate" class="anchor" aria-hidden="true" tabindex="-1" href="#hi-there-we-are-the-techrate">
                 <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
-                    <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 
+                    <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 
+
 
 <p dir="auto">We are the team of engineers and analysts specialized in blockchain technology and business analytics with wide experience on crypto market. Our core team is famous for its market reports made during 2017-2018 bullish market and technical evaluation of the projects.</p>
 <p dir="auto">We started as an <strong>Audit &amp; Development firm</strong> for smart contracts in the beginning of the ICO rush and expanded our expertise to the market researches and exchange analytics, security and technical valuation of the projects.</p>
